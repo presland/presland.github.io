@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a Machine Learning Engineer with a background in Software Engineering and Particle Physics.
+Following a successful career as a research scientist I became a Software Engineer
+working mainly in Embedded Systems before realising I can do software _and_ science as a ML Engineer. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can see more about me at [linkedin](https://www.linkedin.com/in/andrew-presland-682376124/)
